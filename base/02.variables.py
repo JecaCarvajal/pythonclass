@@ -30,3 +30,7 @@ print(mi_numero+mi_float)
 print(mi_texto2+mi_texto3)
 print(mi_texto2*3)
 print("Samuel"*18)
+
+#Constantes
+PI = 3.1416
+MAX_POINT = 1

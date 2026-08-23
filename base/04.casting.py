@@ -1,0 +1,8 @@
+num_string = str(5)
+num_string2 = str(3.0)
+int_float = float(5)
+float_int = int(3.5)
+print(num_string)
+print(num_string2)
+print(int_float)
+print(float_int)
