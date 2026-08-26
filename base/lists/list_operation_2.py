@@ -46,3 +46,18 @@ print(new_list)
 
 new_list_numeros = [x for x in numeros if x % 2 == 0]
 print(new_list_numeros)
+
+#Ordenar una lista
+frutas.sort()
+print(frutas)
+
+#Copiar una lista
+frutas_copy = frutas.copy()
+print(frutas_copy)
+
+#Combinar una lista con otra
+combinadas = frutas + numeros
+print(combinadas)
+
+
+
