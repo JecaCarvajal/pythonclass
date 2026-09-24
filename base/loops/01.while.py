@@ -1,6 +1,6 @@
 # loop sigue iterando hasta que la condicion sea true
 
-i= 1
+i = 1
 
 while i < 6:
     print(i)
